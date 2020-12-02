@@ -1,5 +1,5 @@
 .nav-menu {
-  text-align: right;
+text-align: right;
 }
 .nav-spacing {
   margin: 0 0 0 10px;
@@ -7,3 +7,30 @@
 .nav-color {
   text-decoration: none; color: blue; background-color: transparent;
 }
+.image-link {
+  text-decoration-line: none
+}
+.header-spacing {
+  text-align: center; margin: 0 0 80px
+}
+.image-block {
+  display: block; margin: 0 auto;
+}
+.text-image {
+  width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.book-image {
+  float: left; margin: 0 40px 0 0
+}
+.blockquote {
+  font-style: italic; font-size: 20px; font-style: bold
+}
+.intro-span {
+  font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000
+}
+  .table-spacing {
+    padding: 10px
+  }
+  .quote-quip {
+    padding: 2px 20px; background: #AFAFAF
+  }
